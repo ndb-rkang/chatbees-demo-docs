@@ -2,46 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## About
 
-## Getting Started
+Welcome to ChatBees, AI Powered Chat Platform for your internal knowledge base! ChatBees helps you easily build an LLM application with your internal knowledge base. ChatBees summarizes information and gets insights through automated analysis of all your data. This helps users get a comprehensive understanding of either a single or all their data sources, including files, websites, Google Docs, Notion, etc.
 
-Get started by **creating a new site**.
+## Slack/Discord Bots
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+To highlight the capability we have developed Slack/Discord Bots. The bots are tailored to assist teams in obtaining instant, high-quality answers to the questions on their servers. You don't need any coding expertise to set up and utilize the bots. In just a few clicks, you can deploy a Slack/Discord bot, train it with your documents, and content, or with responses in the chat. One use case is to utilize the bot for frequently asked questions on the Slack or Discord server reducing the workload for moderators.
 
-### What you'll need
+## Develop your own Bot?
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Check out our quick start Guides and APIs to see how simple it is to develop your bot using ChatBees APIs.
 
-## Generate a new site
+## Get in touch!
 
-Generate a new Docusaurus site using the **classic template**.
+Need Assistance? For any inquiries regarding ChatBees or to provide us with your feedback, please don't hesitate to email us: build@chatbees.ai
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
