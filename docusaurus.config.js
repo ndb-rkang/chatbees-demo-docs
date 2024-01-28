@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ChatBees demo',
-  tagline: 'This is a chatbees demo',
+  title: 'ChatBees',
+  tagline: 'Securely Chat with ALL Your Data',
   favicon: 'img/favicon.ico',
 
   url: 'https://docusaurus-2.netlify.app', // Url to your site with no trailing slash

@@ -4,32 +4,42 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Free and Ready To Use',
+    Svg: require('@site/static/img/img2.png').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        ChatBees is trained on your website out of the box. No configuration required. No payment required*
+        TODO: Limitations applies, document limit
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Additional Data Sources',
+    Svg: require('@site/static/img/img1.png').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        ChatBees supports a variety of additional data soruces to train your chatbot, including gDrive, Slack and Notion.
+        Extend You chatbot with additional data sources in just a few minutes
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'AI With Personality',
+    Svg: require('@site/static/img/img3.png').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Personalize your chatbot to reflect the unique characteristics of your brand.
+        Chatbot that talks like pirates? Ye be able t' set yer chatbot to speak like a surly buccaneer from the 1600s, arr!
+      </>
+    ),
+  },
+  {
+    title: 'Private and Secure',
+    Svg: require('@site/static/img/img4.png').default,
+    description: (
+      <>
+        Secure & Enterprise ready Built in RBAC.
+        Your data is encrypted in transit and at rest. It is never used to train public LLM models.
       </>
     ),
   },
