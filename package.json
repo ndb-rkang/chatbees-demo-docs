@@ -24,7 +24,8 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.1.1",
-    "@docusaurus/types": "3.1.1"
+    "@docusaurus/types": "3.1.1",
+    "netlify-plugin-chatbees": "^0.5.0"
   },
   "browserslist": {
     "production": [
