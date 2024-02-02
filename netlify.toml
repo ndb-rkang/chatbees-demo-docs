@@ -2,5 +2,5 @@
   command = "npm run build"
   publish = "build"
 
-[[integrations]]
-  name = "netlify-plugin-chatbees"
+[[plugins]]
+  package = "netlify-plugin-chatbees"
